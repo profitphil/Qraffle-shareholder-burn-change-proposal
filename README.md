@@ -35,7 +35,7 @@ All other allocations (DAO/registered members 5%, Charity 1%, Winner pool, etc.)
 
 ### Voting Options
 
-- **YES** — Approve the change to **Shareholders 8%** and **Burn 5%**
-- **NO** — Keep current distribution (**Shareholders 3%**, **Burn 10%**)
+- **Option 0 - NO** — Keep current distribution (**Shareholders 3%**, **Burn 10%**)
+- **Option 1 - YES** — Approve the change to **Shareholders 8%** and **Burn 5%**
 
 Let's make Qraffle even stronger for the Qubic ecosystem! 🚀
