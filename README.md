@@ -12,6 +12,7 @@ From each raffle entry / proceeds:
 - **Shareholders**: 3% — distributed as dividends to Qraffle smart contract shareholders
 - **DAO / Registered members**: 5% (distributed to registered participants / DAO voters)
 - **Charity (Qubic Charity Fund)**: 1%
+- **Dev Fees**: 1%
 - **Winner(s)**: remaining portion 80%
 
 This structure has helped drive consistent burns and ecosystem support, but shareholder rewards have remained relatively low compared to the deflationary impact.
@@ -31,14 +32,10 @@ All other allocations (DAO/registered members 5%, Charity 1%, Winner pool, etc.)
 |-------------------|-----------|------------|------------|-----------|
 | Shareholders      | 3%        | **8%**     | +5%        | Better rewards long-term holders, increases incentive to buy/hold shares, improves contract attractiveness |
 | Burn              | 10%       | **5%**     | -5%        | Maintains deflationary pressure while reallocating value to ecosystem participants |
-| Net impact on deflation vs. distribution | High burn focus | Balanced approach | — | Trade-off: slower supply reduction, higher shareholder yield |
 
 ### Voting Options
 
 - **YES** — Approve the change to **Shareholders 8%** and **Burn 5%**
 - **NO** — Keep current distribution (**Shareholders 3%**, **Burn 10%**)
-
-
-Feedback, questions, and counter-proposals are welcome in the comments or via @QDogeOnQubic on X.
 
 Let's make Qraffle even stronger for the Qubic ecosystem! 🚀
